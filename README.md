@@ -20,7 +20,7 @@
 |Lucia|Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/modulo_1/blob/main/README.md>|
-| Camila | Sepúlveda | camila.sepulveda1441@gmail.com | 2612547791 | https://github.com/camilasepulveda/Modulo1 | 
+| Camila | Sepúlveda | camila.sepulveda1441@gmail.com | 2612547791 | <https://github.com/camilasepulveda/Modulo1> | 
 
 ## Entrega Módulo 2
 
@@ -29,7 +29,7 @@
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_2_/blob/main/README.md> |
-| Camila | Sepúlveda | <https://github.com/hilariocavalli/Modulo-2> | 
+| Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-2> | 
 
 ## Entrega Módulo 3
 
@@ -38,7 +38,7 @@
 |Lucia|Dominguez| <https://github.com/luciadominguez1/Modulo__3>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_3_/blob/main/README.md> |
-| Camila | Sepúlveda | <https://github.com/hilariocavalli/Modulo-3> | 
+| Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-3> | 
 
 ## Entrega Módulo 4
 
@@ -47,4 +47,4 @@
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_4>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo4> |
 |Milagros|Farina| <https://github.com/Mili5555/Modulo_4_Mili_Farina/tree/main> |
-| Camila | Sepúlveda | <https://github.com/hilariocavalli/Modulo-4> | 
+| Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-4> | 
