@@ -53,7 +53,7 @@
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/TYH_2/tree/main/modulo5>|
-|Julieta|Valle| <> |
+|Julieta|Valle| <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II/tree/main/M%C3%B3dulo_5> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_5/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-5> | 
 
