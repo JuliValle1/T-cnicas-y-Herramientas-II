@@ -47,3 +47,13 @@
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo4> |
 |Milagros|Farina| <https://github.com/Mili5555/Modulo_4_Mili_Farina/tree/main> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-4> | 
+
+## Entrega Módulo 5
+
+| Nombre | Apellido | Github | 
+|:----------|:----------|:----------|
+|Lucia|Dominguez| <>|
+|Julieta|Valle| <> |
+|Milagros|Farina| <> |
+| Camila | Sepúlveda | <> | 
+
