@@ -28,7 +28,7 @@
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
-|Milagros|Farina| <https://github.com/Mili5555/Modulo_2_MF/blob/main/README.md> |
+|Milagros|Farina| <https://github.com/Mili5555/modulo_2_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/hilariocavalli/Modulo-2> | 
 
 ## Entrega Módulo 3
