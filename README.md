@@ -45,7 +45,7 @@
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_4>|
 |Julieta|Valle| <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II/tree/main/M%C3%B3dulo_4> |
-|Milagros|Farina| <https://github.com/Mili5555/Modulo_4_Mili_Farina/tree/main> |
+|Milagros|Farina| <https://github.com/Mili5555/modulo_4> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-4> | 
 
 ## Entrega Módulo 5
