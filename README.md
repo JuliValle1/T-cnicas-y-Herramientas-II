@@ -16,7 +16,7 @@
 
 | Nombre | Apellido | Correo | Whatsapp | Github |
 |:----------|:----------|:----------|:----------|:------------|
-|Lucia|Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
+|Lucia|Dominguez|luciacostanza95@gmail.com|2616685068| <[https://github.com/luciadominguez1/_-modulo_1](https://github.com/luciadominguez1/TYH_2/tree/main/modulo1)>|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/modulo_1/blob/main/README.md>|
 | Camila | Sepúlveda | camila.sepulveda1441@gmail.com | 2612547791 | <https://github.com/camilasepulveda/Modulo1> | 
