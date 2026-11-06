@@ -9,8 +9,7 @@
 - Milagros Farina <https://github.com/Mili5555/_-modulo_1>
 - Lucía Dominguez <https://github.com/luciadominguez1/_-modulo_1>
 - Julieta Valle <https://github.com/JuliValle1/_-modulo_1>
-- Camila Sepúlveda <https://github.com/hilariocavalli/Modulo-1>
-
+- Camila Sepúlveda <https://github.com/camilasepulveda/Modulo1>
 ------------------
 
 ## Entrega Módulo 1
