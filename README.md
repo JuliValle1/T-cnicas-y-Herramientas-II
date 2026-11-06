@@ -8,7 +8,7 @@
 
 - Milagros Farina <https://github.com/Mili5555/_-modulo_1>
 - Lucía Dominguez <https://github.com/luciadominguez1/_-modulo_1>
-- Julieta Valle <https://github.com/JuliValle1/_-modulo_1>
+- Julieta Valle <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II>
 - Camila Sepúlveda <https://github.com/camilasepulveda/Modulo1>
 ------------------
 
@@ -26,7 +26,7 @@
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/TYH_2/tree/main/modulo2>|
-|Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
+|Julieta|Valle| <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II/tree/main/M%C3%B3dulo_2> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_2_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-2> | 
 
@@ -35,7 +35,7 @@
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/TYH_2/tree/main/modulo3>|
-|Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
+|Julieta|Valle| <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II/tree/main/M%C3%B3dulo_3> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_3_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-3> | 
 
@@ -44,7 +44,7 @@
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_4>|
-|Julieta|Valle| <https://github.com/JuliValle1/Modulo4> |
+|Julieta|Valle| <https://github.com/JuliValle1/Tecnicas-y-Herramientas-II/tree/main/M%C3%B3dulo_4> |
 |Milagros|Farina| <https://github.com/Mili5555/Modulo_4_Mili_Farina/tree/main> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-4> | 
 
