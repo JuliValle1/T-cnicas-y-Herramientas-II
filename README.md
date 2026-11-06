@@ -2,7 +2,7 @@
 # Entrega CUASI INGENIERIAS
 
 
-<img width="1454" height="273" alt="image" src="https://github.com/user-attachments/assets/7b7ede50-70a3-4260-b265-fbc6b4a880c5" />
+<img width="682" height="530" alt="image" src="https://github.com/user-attachments/assets/d4e5b947-d7bd-4c67-ad9a-df630654d136" />
 
 
 
