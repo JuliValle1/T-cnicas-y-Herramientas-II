@@ -19,7 +19,7 @@
 |:----------|:----------|:----------|:----------|:------------|
 |Lucia|Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
-|Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
+|Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/modulo_1/blob/main/README.md>|
 | Camila | Sepúlveda | hilariomcavallic@gmail.com | 2615939657 | <https://github.com/hilariocavalli/Modulo-1> | 
 
 ## Entrega Módulo 2
