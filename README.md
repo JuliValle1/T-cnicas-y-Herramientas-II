@@ -25,7 +25,7 @@
 
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
-|Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
+|Lucia|Dominguez| <https://github.com/luciadominguez1/TYH_2/tree/main/modulo2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_2_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-2> | 
@@ -34,7 +34,7 @@
 
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
-|Lucia|Dominguez| <https://github.com/luciadominguez1/Modulo__3>|
+|Lucia|Dominguez| <https://github.com/luciadominguez1/TYH_2/tree/main/modulo3>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_3_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-3> | 
