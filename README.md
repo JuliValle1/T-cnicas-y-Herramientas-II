@@ -55,5 +55,5 @@
 |Lucia|Dominguez| <>|
 |Julieta|Valle| <> |
 |Milagros|Farina| <https://github.com/Mili5555/modulo_5/blob/main/README.md> |
-| Camila | Sepúlveda | <> | 
+| Camila | Sepúlveda | <https://github.com/camilasepulveda/Modulo-5> | 
 
