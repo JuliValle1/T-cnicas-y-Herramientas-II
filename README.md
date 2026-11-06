@@ -37,7 +37,7 @@
 |:----------|:----------|:----------|
 |Lucia|Dominguez| <https://github.com/luciadominguez1/Modulo__3>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
-|Milagros|Farina| <https://github.com/Mili5555/Modulo_3> |
+|Milagros|Farina| <https://github.com/Mili5555/modulo_3_/blob/main/README.md> |
 | Camila | Sepúlveda | <https://github.com/hilariocavalli/Modulo-3> | 
 
 ## Entrega Módulo 4
