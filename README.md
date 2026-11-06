@@ -2,7 +2,8 @@
 # Entrega CUASI INGENIERIAS
 
 
-<img width="1454" height="273" alt="image" src="https://github.com/user-attachments/assets/e858e43d-9249-4e9d-af39-54ec91a233ba" />
+<img width="1454" height="273" alt="image" src="https://github.com/user-attachments/assets/7b7ede50-70a3-4260-b265-fbc6b4a880c5" />
+
 
 
 - Milagros Farina <https://github.com/Mili5555/_-modulo_1>
